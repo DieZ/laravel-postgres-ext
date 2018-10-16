@@ -1,5 +1,5 @@
 {
-    "name": "yurykabanov/laravel-postgres-ext",
+    "name": "ternio/laravel-postgres-ext",
     "description": "Extended PostgreSQL driver for Laravel 5.x",
     "authors": [
         {
