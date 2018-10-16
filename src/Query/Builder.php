@@ -9,7 +9,7 @@ class Builder extends BaseBuilder
     /**
      * @var Grammars\PostgresGrammar The database query grammar instance.
      */
-    protected $grammar;
+    public $grammar;
 
     /**
      * Performs UPSERT statement against selected database
